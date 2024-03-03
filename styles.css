@@ -36,6 +36,7 @@ h1 {
   gap: 10px;
   justify-content: center;
   align-items: center;
+  background-color: white;
 }
 
 .convert-btn {
@@ -47,7 +48,6 @@ h1 {
 
 .number-input {
   height: 25px;
-  color: white;
 }
 
 #result {
